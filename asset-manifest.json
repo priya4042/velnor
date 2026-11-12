@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/velnor/static/js/main.525ab92a.js",
+    "index.html": "/velnor/index.html",
+    "main.525ab92a.js.map": "/velnor/static/js/main.525ab92a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.525ab92a.js"
+  ]
+}
