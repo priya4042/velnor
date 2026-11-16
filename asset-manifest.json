@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/velnor/static/css/main.f0ea6a3b.css",
+    "main.js": "/velnor/static/js/main.96db1e88.js",
+    "index.html": "/velnor/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f0ea6a3b.css",
+    "static/js/main.96db1e88.js"
+  ]
+}
